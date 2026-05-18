@@ -1,7 +1,0 @@
-"BROKEN","EPIC","FAILED","FEATURE","PASSED","SKIPPED","STORY","UNKNOWN"
-"1","","0","Products Test","0","0","Logging out from Products page should redirect to Login page","0"
-"6","","0","Login Test","0","0","User enters incorrect login credentials","0"
-"1","","0","Login Test","0","0","User keeps the username blank","0"
-"1","","0","Login Test","0","0","User is locked out","0"
-"3","","0","Login Test","0","0","User enters correct login credentials","0"
-"1","","0","Login Test","0","0","User keeps the password blank","0"
